@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Formulario Parcelabe QACJ</string>
+    <string name="espera">BIENVENIDO, POR FAVOR ESPERA MAIFREN. EN UN MOMENTO INICIARÁ EL MENÚ PRINCIPAL</string>
+    <string name="menu">MENU PRINCIPAL</string>
+    <string name="capturaD">CAPTURAR DATOS DEL USUARIO</string>
+    <string name="rechazar">LO SIENTO, ESTÁ CLARO, ¡NO EXISTE, NO HAY DATOS DISPONIBLES EN ESTE MOMENTO!</string>
+</resources>
